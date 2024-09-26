@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+sitemap: https://colmekdesah.pages.dev/sitemap.xml
